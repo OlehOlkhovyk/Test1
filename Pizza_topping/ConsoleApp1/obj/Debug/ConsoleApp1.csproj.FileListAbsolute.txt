@@ -1,0 +1,9 @@
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\My_Prgram\!!!Резюме\Tests\6\test1\Pizza_topping\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
